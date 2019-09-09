@@ -7,8 +7,8 @@
 
 
 ## Зависимости
-* IDAPython API *
-* Hex-rays decompiler *
+* IDAPython API 
+* Hex-rays decompiler 
 ## Документация
 
 ### Основные функции для работы с API:
