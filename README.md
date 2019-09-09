@@ -77,7 +77,7 @@ class DbgHook(DBG_Hooks):
 	def dbg_bpt(self, tid, ea):
 		return
 ```
-###Трассировка:
+### Трассировка:
 * **RunTo(BeginEA())**  
 _event_ = GetDebuggerEvent(WFNE_SUSP, -1)
    
@@ -94,7 +94,7 @@ for i in range(1000):
   print "Debug: current address", hex(addr), "| debug event", hex(event)
   if event <= 1: break
 ```
-###Новый сегмент:
+### Новый сегмент:
 
 ```
 #!python
