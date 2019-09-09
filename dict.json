@@ -1,0 +1,21 @@
+{
+  "memcpy": {
+	"3": "3 (high)"
+  },
+  "memset": {
+    "3": "1 (low)"
+  },
+  "myfunc": {
+	"3": "3 (high)",
+	"2": "2 (medium)"
+  },
+  "memcmp": {
+    "3": "2 (medium)"
+  },
+  "memchr": {
+    "3": "1 (low)"
+  },
+  "memmove": {
+    "3": "3 (high)"
+  }
+}
